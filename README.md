@@ -20,3 +20,7 @@ if u want to use it in ros melodic u can change the interpreter from #!/usr/bin/
 it is recommended to use in  ros noectic
 
 for non ros file named withou_ros_main execute it 
+
+# Done by:
+Abhilash Mane
+Rajan Pande
